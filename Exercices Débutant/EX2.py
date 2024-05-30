@@ -1,0 +1,5 @@
+Nombre1 = int(input('Entrez un nombre : '))
+print(Nombre1)
+Nombre2 = int(input('Entrez un autre nombre : '))
+print(Nombre2)
+print ("La somme de ces deux nombres est :")
